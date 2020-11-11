@@ -1,0 +1,17 @@
+{
+  "name": "localpdf",
+  "version": "1.0.0",
+  "description": "A CLI tool to convert HTML to PDF in Root Platform's format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louw Hopley",
+  "license": "MIT",
+  "dependencies": {
+    "wkhtmltopdf": "^0.3.4"
+  },
+  "bin": {
+    "localpdf": "./index.js"
+  }
+}
