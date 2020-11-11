@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const wkhtmltopdf = require('wkhtmltopdf');
 const fs = require('fs');
 
