@@ -13,6 +13,7 @@ Usage: localpdf [input_file] [output_file]
 Arguments:
   > input_file   required  Path to input HTML file
   > output_file  optional  Path to output PDF file
+Example: localpdf example.html example.pdf
 ```
 
 ## Development
