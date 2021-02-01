@@ -32,11 +32,11 @@ After you've installed this repo, you can convert files to PDF using the followi
 
 ## Example Usage
 
-1. Create a HTML document
+1. Create a HTML document e.g. index.html
 2. Open the localpdf folder under your Computer/Users/name e.g. rebeccalain/localpdf
 3. Move your HTML document to this folder.
-4. Back to Terminal/Command and making sure you are in the localpdf location (if you are not quit and open the repo using your name e.g. `cd /Users/rebeccalain/localpdf`
-5.  `node index.js [input_file] [output_file]` e.g. `node index.js index.html beccatest2.pdf`
+4. Back to Terminal/Command and making sure you are in the localpdf location (if you are not in this location, quit then and open the repo using your name e.g. `cd /Users/rebeccalain/localpdf`
+5. In the Terminal/Command paste `node index.js [input_file] [output_file]` then edit to include your HTML file's name and the name you would like to save the pdf document e.g. `node index.js index.html beccatest.pdf`
 6. On your desktop open the localpdf folder and you will now see a new pdf document. Open it to see the results from the html!
 
 ## Deployment to npm registry
