@@ -21,7 +21,7 @@ Example: localpdf example.html example.pdf
 ### Installation
 
 1. Install wkhtmltopdf locally on your machine: [download](https://wkhtmltopdf.org/downloads.html#stable)
-2. Clone this repo: `git@github.com:RootBank/localpdf.git`
+2. Clone this repo by using the following command: ` git clone git@github.com:RootBank/localpdf.git`
 3. Install the dependencies: `cd localpdf` and `npm install`
 
 ### Usage
